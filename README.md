@@ -1,3 +1,5 @@
+**NOTE THAT THIS IS HEAVILY WIP AND SHOULD LIKELY NOT BE USED IN PRODUCTION CODE UNTIL IT IS COMPLETED AND TESTED**
+
 # Introduction
 This is my attempt at a implementation of the Object Composition Pattern in Objective-C. It is intended to be as Lightweight and Simple as possible, whilst requiring minimal configuration.
 
