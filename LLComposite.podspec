@@ -11,6 +11,7 @@ Pod::Spec.new do |s|
     s.homepage = 'https://github.com/lawrencelomax/LLComposite'
     s.platform = :ios, '5.0'
     s.source_files = 'Classes/'
-    s.dependency 'libextobjc'
     s.requires_arc = true
+    
+    s.dependency 'libextobjc'
 end
