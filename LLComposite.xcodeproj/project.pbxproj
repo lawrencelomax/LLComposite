@@ -43,6 +43,8 @@
 
 /* Begin PBXFileReference section */
 		21CA544B162CC56000E7E8BA /* libobjc.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libobjc.dylib; path = usr/lib/libobjc.dylib; sourceTree = SDKROOT; };
+		21CA546F162CCB7F00E7E8BA /* LLComposite.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = LLComposite.podspec; sourceTree = "<group>"; };
+		21CA5470162CCB7F00E7E8BA /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 		21CBEB69162CC3FA002D3521 /* libLLComposite.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libLLComposite.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		21CBEB6C162CC3FA002D3521 /* Foundation.framework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		21CBEB7A162CC3FB002D3521 /* LLCompositeTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LLCompositeTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -90,6 +92,8 @@
 				21CBEB83162CC3FB002D3521 /* LLCompositeTests */,
 				21CBEB6B162CC3FA002D3521 /* Frameworks */,
 				21CBEB6A162CC3FA002D3521 /* Products */,
+				21CA546F162CCB7F00E7E8BA /* LLComposite.podspec */,
+				21CA5470162CCB7F00E7E8BA /* Podfile */,
 				7CDC89A3A5944BB6B469DA3E /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
