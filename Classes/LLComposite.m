@@ -1,7 +1,7 @@
 #import "LLComposite.h"
-
-#import <objc/objc-runtime.h>
 #import "LLComponent.h"
+
+#include <objc/runtime.h>
 
 #pragma mark C
 

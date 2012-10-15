@@ -1,5 +1,6 @@
 #import <UIKit/UIKit.h>
-#import <objc/objc-runtime.h>
+
+#include <objc/runtime.h>
 
 #pragma mark Typedefs
 
